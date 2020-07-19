@@ -8,7 +8,7 @@ Now, with the intorduction out of the way, let me explain what I & my team do! W
 * Mr.Mogul[^3]
 * TycoonMobile[^4]
 
-If you'd like to keep up to date on **any** of these projects, or just wann join our community & hang out, you can join our Discord Server here: https://discord.gg/Ef2AQns
+If you'd like to keep up to date on **any** of these projects, or just wanna join our community & hang out, you can join our Discord Server here: https://discord.gg/Ef2AQns
 
 
 

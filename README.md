@@ -3,10 +3,8 @@ My name is Ethan, also known as Ittim! I am studying Computer Information System
 
 Now, with the intorduction out of the way, let me explain what I & my team do! We create *stuff*. So far we're working on the following website, discord bots,and mobile app!:
 
-* Ittim.xyz[^1]
+* MogulDevs.xyz[^1]
 * TycoonMogul[^2]
-* Mr.Mogul[^3]
-* TycoonMobile[^4]
 
 If you'd like to keep up to date on **any** of these projects, or just wanna join our community & hang out, you can join our Discord Server here: https://discord.gg/Ef2AQns
 
@@ -14,7 +12,5 @@ If you'd like to keep up to date on **any** of these projects, or just wanna joi
 
 
 
-[^1]:https://ittim.xyz
-[^2]:https://ittim.xyz/tm
-[^3]:https://ittim.xyz/mrmogul
-[^4]:https://ittim/tycoonmobile
+[^1]:https://moguldevs.xyz
+[^2]:https://moguldevs.xyz/tycoonmogul

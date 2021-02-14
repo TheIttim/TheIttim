@@ -8,3 +8,5 @@ Now with my intro out of the way, here's some cool links!
 * https://Twitch.tv/TheRealIttim
 
 Wanna see what I'm working on, catch my streams or just hang out? Come join me at https://discord.gg/7HA84YJkyP
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheIttim)](https://github.com/anuraghazra/github-readme-stats)

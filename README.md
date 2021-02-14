@@ -1,5 +1,5 @@
 # Welcome to my GitHub Profile!
-My name is Ethan, also known as Ittim! I am studying Computer Information Systems as part-time employee at my local community college. I'm employed as a Cavalier Care Center Assistant. The Center helps students with things like food insecurities, housing, finding a job, healthcare & so much more! I spend my free time like most college students: playing video games, recording podcast episodes, goofing off with my friends on Discord, or chilling at the Student Life department.
+My name is Ethan, also known as Ittim! I am studying Computer Information Systems as part-time employee at my local community college. I'm employed as a Cavalier Care Center Assistant. The Center helps students with things like food insecurities, housing, finding a job, healthcare & so much more! I spend my free time like most college students: playing video games, streaming on Twitch, experimenting in Python, goofing off with my friends on Discord, or chilling at the Student Life department.
 
 Now with my intro out of the way, here's some cool links!
 

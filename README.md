@@ -9,4 +9,9 @@ Now with my intro out of the way, here's some cool links!
 
 Wanna see what I'm working on, catch my streams or just hang out? Come join me at https://discord.gg/7HA84YJkyP
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheIttim&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheIttim&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIttim&layout=compact https://github.com/anuraghazra/github-readme-stats" />
+</a>

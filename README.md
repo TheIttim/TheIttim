@@ -12,6 +12,6 @@ Wanna see what I'm working on, catch my streams or just hang out? Come join me a
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheIttim&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIttim&layout=compact https://github.com/anuraghazra/github-readme-stats" />
 </a>

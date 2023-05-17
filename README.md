@@ -39,4 +39,4 @@ Hello, I'm Ethan, also known as Ittim! I'm a dedicated IT professional with a st
 
 ## Connect and Collaborate
 
-Feel free to connect with me on [Discord](https://discordapp.com/users/Ittim#0092), [LinkedIn](https://www.linkedin.com/in/ethan-h-a19829110/), or reach out to me via email at ittim@ittim.xyz. Let's stay updated with my latest projects and activities and collaborate on something awesome!
+Feel free to connect with me on [Discord](https://discordapp.com/users/Ittim#0092), [LinkedIn](https://www.linkedin.com/in/ethan-h-a19829110/), or reach out to me via email at ittim@ittim.xyz. Stay updated with my latest projects and activities and collaborate on something awesome!

@@ -1,17 +1,42 @@
 # Welcome to my GitHub Profile!
-My name is Ethan, also known as Ittim! I am studying Computer Information Systems as part-time employee at my local community college. I'm employed as a Cavalier Care Center Assistant. The Center helps students with things like food insecurities, housing, finding a job, healthcare & so much more! I spend my free time like most college students: playing video games, streaming on Twitch, experimenting in Python, goofing off with my friends on Discord, or chilling at the Student Life department.
 
-Now with my intro out of the way, here's some cool links!
+Hello, I'm Ethan, also known as Ittim! I'm a dedicated IT professional with a strong passion for computer science. Currently pursuing my Bachelor's degree after successfully completing my Associate's degree, I'm committed to expanding my knowledge and skills in the field.
 
-* https://ittim.xyz
-* https://dnd.ittim.xyz
-* https://Twitch.tv/TheRealIttim
+<p align="right">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIttim&layout=compact" />
+  </a>
+</p>
 
-Wanna see what I'm working on, catch my streams or just hang out? Come join me at https://discord.gg/7HA84YJkyP
+## Projects
+- Coming Soon!
+<!-- 
+- [Project 1](link): Short description of the project.
+- [Project 2](link): Short description of the project.
+- [Project 3](link): Short description of the project. -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TheIttim&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIttim&layout=compact https://github.com/anuraghazra/github-readme-stats" />
-</a>
+## Skills
+
+- Programming Languages: Python, Java, JavaScript
+- Frameworks: Django, React, Node.js
+- Tools: Git, Docker
+
+## Education
+
+- Bachelor's Degree in General Studies Applied Science - Louisiana State University Shreveport, In-Progress
+- Associate's Degree in Computer Information Systems - Bossier Parish Community College, 2021
+
+## Contributions
+- Coming Soon!
+<!-- 
+- Contributed to [Open Source Project 1](link)
+- Contributed to [Open Source Project 2](link)
+- Pull Requests: [Pull Requests](link) -->
+
+## Personal Website
+- I am working on rebuilding my site, check back later :D
+<!-- Visit my personal website [here](https://ittim.xyz) to learn more about me and my work. -->
+
+## Connect and Collaborate
+
+Feel free to connect with me on [Discord](https://discordapp.com/users/Ittim#0092), [LinkedIn](https://www.linkedin.com/in/ethan-h-a19829110/), or reach out to me via email at ittim@ittim.xyz. Let's stay updated with my latest projects and activities and collaborate on something awesome!

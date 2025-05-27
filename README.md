@@ -7,13 +7,10 @@ Hello, I'm Ethan, also known as Ittim! I'm a dedicated IT professional with a st
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheIttim&layout=compact" />
   </a>
 </p>
+<br><br><br><br><br>
 
 ## Projects
-- Coming Soon!
-<!-- 
-- [Project 1](link): Short description of the project.
-- [Project 2](link): Short description of the project.
-- [Project 3](link): Short description of the project. -->
+Most of my projects now are writing automation scripts for the End User Support Team at LSUHS, or making websites for customers; if you want a website, please message or email me and we can get started!
 
 ## Skills
 
@@ -39,4 +36,4 @@ Hello, I'm Ethan, also known as Ittim! I'm a dedicated IT professional with a st
 
 ## Connect and Collaborate
 
-Feel free to connect with me on [Discord](https://discordapp.com/users/Ittim#0092), [LinkedIn](https://www.linkedin.com/in/ethan-h-a19829110/), or reach out to me via email at ittim@ittim.xyz. Stay updated with my latest projects and activities and collaborate on something awesome!
+Feel free to connect with me on [Discord](https://discordapp.com/users/Ittim#0092), [LinkedIn](https://www.linkedin.com/in/ethan-h-a19829110/), or reach out to me via email at haganwebdev@gmail.com. Stay updated with my latest projects and activities and collaborate on something awesome!
